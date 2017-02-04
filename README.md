@@ -40,3 +40,5 @@ EveryDaySport 灵感来自 *[sofish](https://www.github.com/sofish)* 的 [天天
 └── readme.md             … 说明文档
 ```
 
+### 七、开始写自己的文档
+写下自已需要做的事情，ok!!!
